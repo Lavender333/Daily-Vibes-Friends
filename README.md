@@ -2,7 +2,7 @@
 
 ## Virgo Friend ♍
 
-A warm, responsive daily companion centered on rotating **What I Feel**, **What I Need**, and **Watch For** readings, plus grounding reminders and private check-ins.
+A warm, responsive daily companion centered on rotating **What You Feel**, **What You Need**, and **Watch For** readings, plus a copy-ready text format, grounding reminders, and private check-ins.
 
 The reading combines a known Virgo Sun and Cleveland, Ohio local date with calculated zodiac season, approximate lunar phase, weekday ruler, five-element cycle, and chakra cycle. Unknown natal details are explicitly left uncalculated until a birth date and exact time are available.
 
